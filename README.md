@@ -1,3 +1,3 @@
 # API example in Elm
 
-Simple API example for SpaceX missions.
+Simple API example for SpaceX missions. All the code resides in src/SpaceX.elm
