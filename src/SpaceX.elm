@@ -2,7 +2,6 @@ module SpaceX exposing (..)
 
 import Browser
 import Css exposing (..)
-import Debug exposing (toString)
 import Html
 import Html.Styled exposing (..)
 import Html.Styled.Attributes exposing (..)
@@ -167,4 +166,4 @@ view model =
             div [] [ text "Loading..." ]
 
         Failure error ->
-            div [] [ text (toString error) ]
+            div [] [ text "Error" ]
