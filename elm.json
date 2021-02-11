@@ -25,7 +25,6 @@
             "ianmackenzie/elm-triangular-mesh": "1.0.4",
             "ianmackenzie/elm-units": "2.6.0",
             "ianmackenzie/elm-units-interval": "1.1.0",
-            "Skinney/murmur3": "2.0.8",
             "rtfeldman/elm-hex": "1.0.0"
         },
         "indirect": {
@@ -33,6 +32,7 @@
             "elm/file": "1.0.5",
             "elm/time": "1.0.0",
             "elm/url": "1.0.0",
+            "Skinney/murmur3": "2.0.8",
             "elm/virtual-dom": "1.0.2"
         }
     },
